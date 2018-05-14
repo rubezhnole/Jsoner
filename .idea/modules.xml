@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jsoner.iml" filepath="$PROJECT_DIR$/.idea/modules/Jsoner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jsoner_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Jsoner_main.iml" group="Jsoner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jsoner_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Jsoner_test.iml" group="Jsoner" />
+    </modules>
+  </component>
+</project>
